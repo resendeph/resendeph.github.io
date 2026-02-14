@@ -1,0 +1,13 @@
+# main navigation links — mirrors the structure of piaiaabreu.github.io
+main:
+  - title: "Research"
+    url: /research/
+
+  - title: "Talks"
+    url: /talks/
+
+  - title: "Grants & Awards"
+    url: /grants/
+
+  - title: "CV"
+    url: /cv/
