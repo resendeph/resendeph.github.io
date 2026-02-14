@@ -11,7 +11,7 @@ repository               : "resendeph/resendeph.github.io"  # ← CHANGE usernam
 # Site Author
 author:
   name             : "Paulo H. Resende"
-  avatar           : "images/profile.jpg.png"   # ← upload your photo to images/ with this name
+  avatar           : "images/profile.png"   # ← upload your photo to images/ with this name
   bio              : "PhD Student in Agricultural and Applied Economics"
   location         : "Lubbock, TX"
   employer         :
