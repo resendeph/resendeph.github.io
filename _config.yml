@@ -4,9 +4,9 @@ title                    : "Paulo H. Resende"
 title_separator          : "-"
 name                     : &name "Paulo H. Resende"
 description              : &description "PhD Student in Agricultural and Applied Economics at Texas Tech University"
-url                      : https://paulohresende.github.io  # ← CHANGE to your actual GitHub username
+url                      : https://resendeph.github.io  # ← CHANGE to your actual GitHub username
 baseurl                  : "" # the subpath of your site, e.g. /blog
-repository               : "paulohresende/paulohresende.github.io"  # ← CHANGE username
+repository               : "resendeph/resendeph.github.io"  # ← CHANGE username
 
 # Site Author
 author:
